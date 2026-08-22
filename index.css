@@ -405,6 +405,7 @@ header h1 {
 }
 #techs i{
     color: white;
+    font-size: 22px;
 }
 #Contacto {
     display: flex;
