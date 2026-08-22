@@ -403,7 +403,9 @@ header h1 {
     list-style: none;
     gap: 30px;
 }
-
+#techs i{
+    color: white;
+}
 #Contacto {
     display: flex;
     flex-direction: row;
